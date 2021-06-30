@@ -10,4 +10,5 @@ This react chat app was build using Chat Engine [https://chatengine.io](https://
 
 Firebase was used for Google Auth
 
+Note: Create a .env file to store the API Keys.
 
